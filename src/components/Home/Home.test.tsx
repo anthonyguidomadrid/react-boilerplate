@@ -1,7 +1,6 @@
 import { screen } from "@testing-library/react";
 import { Home } from "./Home";
-import { I18nextProvider } from "react-i18next";
-import renderWithProviders from "../../utils/test";
+import { renderWithProviders } from "../../utils";
 
 test("renders welcome message", () => {
   renderWithProviders(<Home />);
