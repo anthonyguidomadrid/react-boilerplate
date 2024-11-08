@@ -12,7 +12,7 @@ A simple and reusable React app boilerplate setup with TypeScript, Material UI, 
 - **i18next** for internationalization (i18n)
 - **Testing** with **Jest** and **React Testing Library**
 - **ESLint** and **Prettier** for code quality and style enforcement
-- **React Router** for routing (if added in the future)
+- **React Router** for routing 
 
 ## Prerequisites
 
